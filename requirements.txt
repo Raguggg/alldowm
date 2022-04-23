@@ -6,5 +6,5 @@ Pillow
 pyrogram
 requests
 tgcrypto
-youtube_dl==2021.6.6
+youtube_dl==2021.4.1
 olefile
